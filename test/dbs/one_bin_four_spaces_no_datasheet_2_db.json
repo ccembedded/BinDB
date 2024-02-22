@@ -1,0 +1,37 @@
+{
+    "num_bins": 1, 
+    "bins" : {
+        "1": {
+            "num_spaces": 4,
+            "spaces": {
+                "1": {
+                    "component": "Component_1_1",
+                    "component_model": "Component_Model_1_1",
+                    "component_make": "Component_Make_1_1",
+                    "quantity": 1,
+                    "datasheet": "datasheets/1_1"
+                },
+                "2": {
+                    "component": "Component_1_2",
+                    "component_model": "Component_Model_1_2",
+                    "component_make": "Component_Make_1_2",
+                    "quantity": 2
+                },
+                "3": {
+                    "component": "Component_1_3",
+                    "component_model": "Component_Model_1_3",
+                    "component_make": "Component_Make_1_3",
+                    "quantity": 3,
+                    "datasheet": "datasheets/1_3"
+                },
+                "4": {
+                    "component": "Component_1_4",
+                    "component_model": "Component_Model_1_4",
+                    "component_make": "Component_Make_1_4",
+                    "quantity": 4,
+                    "datasheet": "datasheets/1_4"
+                }
+            }
+        }
+    }
+}

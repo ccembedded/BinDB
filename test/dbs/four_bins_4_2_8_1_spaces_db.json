@@ -1,0 +1,130 @@
+{
+    "num_bins": 4, 
+    "bins" : {
+        "1": {
+            "num_spaces": 4,
+            "spaces": {
+                "1": {
+                    "component": "Component_1_1",
+                    "component_model": "Component_Model_1_1",
+                    "component_make": "Component_Make_1_1",
+                    "quantity": 1,
+                    "datasheet": "datasheets/1_1"
+                },
+                "2": {
+                    "component": "Component_1_2",
+                    "component_model": "Component_Model_1_2",
+                    "component_make": "Component_Make_1_2",
+                    "quantity": 2,
+                    "datasheet": "datasheets/1_2"
+                },
+                "3": {
+                    "component": "Component_1_3",
+                    "component_model": "Component_Model_1_3",
+                    "component_make": "Component_Make_1_3",
+                    "quantity": 3,
+                    "datasheet": "datasheets/1_3"
+                },
+                "4": {
+                    "component": "Component_1_4",
+                    "component_model": "Component_Model_1_4",
+                    "component_make": "Component_Make_1_4",
+                    "quantity": 4,
+                    "datasheet": "datasheets/1_4"
+                }
+            }
+        },
+        "2": {
+            "num_spaces": 2,
+            "spaces": {
+                "1": {
+                    "component": "Component_2_1",
+                    "component_model": "Component_Model_2_1",
+                    "component_make": "Component_Make_2_1",
+                    "quantity": 1,
+                    "datasheet": "datasheets/2_1"
+                },
+                "2": {
+                    "component": "Component_2_2",
+                    "component_model": "Component_Model_2_2",
+                    "component_make": "Component_Make_2_2",
+                    "quantity": 2,
+                    "datasheet": "datasheets/2_2"
+                }
+            }
+        },
+        "3": {
+            "num_spaces": 8,
+            "spaces": {
+                "1": {
+                    "component": "Component_3_1",
+                    "component_model": "Component_Model_3_1",
+                    "component_make": "Component_Make_3_1",
+                    "quantity": 1,
+                    "datasheet": "datasheets/3_1"
+                },
+                "2": {
+                    "component": "Component_3_2",
+                    "component_model": "Component_Model_3_2",
+                    "component_make": "Component_Make_3_2",
+                    "quantity": 2,
+                    "datasheet": "datasheets/3_2"
+                },
+                "3": {
+                    "component": "Component_3_3",
+                    "component_model": "Component_Model_3_3",
+                    "component_make": "Component_Make_3_3",
+                    "quantity": 3,
+                    "datasheet": "datasheets/3_3"
+                },
+                "4": {
+                    "component": "Component_3_4",
+                    "component_model": "Component_Model_3_4",
+                    "component_make": "Component_Make_3_4",
+                    "quantity": 4,
+                    "datasheet": "datasheets/3_4"
+                },
+                "5": {
+                    "component": "Component_3_5",
+                    "component_model": "Component_Model_3_5",
+                    "component_make": "Component_Make_3_5",
+                    "quantity": 1,
+                    "datasheet": "datasheets/3_5"
+                },
+                "6": {
+                    "component": "Component_3_6",
+                    "component_model": "Component_Model_3_6",
+                    "component_make": "Component_Make_3_6",
+                    "quantity": 2,
+                    "datasheet": "datasheets/3_6"
+                },
+                "7": {
+                    "component": "Component_3_7",
+                    "component_model": "Component_Model_3_7",
+                    "component_make": "Component_Make_3_7",
+                    "quantity": 3,
+                    "datasheet": "datasheets/3_7"
+                },
+                "8": {
+                    "component": "Component_3_8",
+                    "component_model": "Component_Model_3_8",
+                    "component_make": "Component_Make_3_8",
+                    "quantity": 4,
+                    "datasheet": "datasheets/3_8"
+                }
+            }
+        },
+        "4": {
+            "num_spaces": 1,
+            "spaces": {
+                "1": {
+                    "component": "Component_4_1",
+                    "component_model": "Component_Model_4_1",
+                    "component_make": "Component_Make_4_1",
+                    "quantity": 1,
+                    "datasheet": "datasheets/4_1"
+                }
+            }
+        }
+    }
+}
